@@ -1,3 +1,7 @@
+"""
+Para ejecutar el test haga el siguinete comonado: 
+    python3 testest_perfect_number.py
+"""
 from perfect_number import its_perfect_number
 import unittest
 
