@@ -1,5 +1,2 @@
 # ejerciciosChidos
-Ejercicios de programación.
-
-# Descripción:
-Una serie de ejercicios de programación.
+Una serie de ejercicios de programación en python.
