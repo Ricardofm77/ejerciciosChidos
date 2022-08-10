@@ -1,5 +1,5 @@
 """
-Para ejecutar el test haga el siguinete comonado: 
+Para ejecutar el test haga el siguinete comonado en la terminal: 
     python3 testest_perfect_number.py
 """
 from perfect_number import its_perfect_number
